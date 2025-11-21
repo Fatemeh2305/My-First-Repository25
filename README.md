@@ -37,7 +37,7 @@ ultra_quality_webapp/
 │   │       fastapi
 │   │       uvicorn
 │   │       pydantic
-│   │       python-
+│   │       
 │   │
 │   ├── Dockerfile
 │   │       FROM python:3.11-slim
