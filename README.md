@@ -37,6 +37,7 @@ ultra_quality_webapp/
 │   │       fastapi
 │   │       uvicorn
 │   │       pydantic
+            <!DOCTYPE html>
 │   │       
 │   │
 │   ├── Dockerfile
