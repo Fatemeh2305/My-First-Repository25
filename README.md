@@ -164,7 +164,7 @@ ultra_quality_webapp/
 │           stdin_open: true
 │           tty: true
 │
-└── README.md
+└── README.
         # Ultra Quality WebApp
         Full-stack project using FastAPI + React + Tailwind + Docker.
         Backend:
