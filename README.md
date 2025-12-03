@@ -26,7 +26,7 @@ ultra_quality_webapp/
 │   │   │
 │   │   │       @router.get("/status")
 │   │   │       def status():
-│   │   │           return {
+│   │   │           return {routes import router
 │   │   │               "status": "OK",
 │   │   │               "message": "Ultra Quality Backend Running Successfully!"
 │   │   │           }
