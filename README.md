@@ -71,7 +71,7 @@ ultra_quality_webapp/
 │   │           "autoprefixer": "^10.4.0",
 │   │           "postcss": "^8.4.0"
 │   │         }
-│   │       }
+│   │       } message TEXT NOT NULL
 │   │
 │   ├── tailwind.config.js
 │   │       export default {
