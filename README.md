@@ -19,7 +19,7 @@ ultra_quality_webapp/
 │   │   │
 │   │   │       app.include_router(router)
 │   │
-│   │   ├── routes.py
+│   │   ├── route.py
 │   │   │       from fastapi import APIRouter
                 <head>
 │   │   │
