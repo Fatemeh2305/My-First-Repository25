@@ -16,6 +16,7 @@ ultra_quality_webapp/
 │   │   │           allow_methods=["*"],
 │   │   │           allow_headers=["*"],
 │   │   │       )html
+                )str
 │   │   │
 │   │   │       app.include_router(router)
 │   │
