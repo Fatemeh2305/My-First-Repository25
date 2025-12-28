@@ -165,6 +165,7 @@ ultra_quality_webapp/
 │             - "3000:3000"
 │           stdin_open: true
 │           tty: true
+            npm start
 │
 └── README.
         # Ultra Quality WebApp
